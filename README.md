@@ -34,6 +34,8 @@ Some of the projects featured in my portfolio include:
 
 The portfolio is designed to present my projects, skills and ongoing learning in one place.
 
+Visit the portfolio on https://juanvi012.github.io/Portfolio/
+
 ## License
 
 This repository is distributed under the MIT License. See the `LICENSE` file for details.
